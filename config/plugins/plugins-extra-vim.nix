@@ -25,7 +25,6 @@
     {
       plugin = orgmode;
       # 可选：添加 nvim-org 的配置
-      #config = "lua require('org').setup{}";     
     }
   ];
 }
